@@ -1,0 +1,13 @@
+[*] MCP scanner starting...
+[*] Target: python3 /home/sansforensics/mcp-scanner/test_server.py
+
+[+] Found 4 tool(s)
+
+======================================================================
+[HIGH] [MCP-001] exec_command: Dangerous name: ['exec', 'command']
+[HIGH] [MCP-004] fetch_url: SSRF risk: parameter 'url'
+[MEDIUM] [MCP-005] read_path: Path traversal risk: parameter 'path'
+[HIGH] [MCP-002] get_weather: Prompt injection in description
+======================================================================
+
+[+] Report saved. Summary: 3 HIGH, 1 MEDIUM, 0 LOW
