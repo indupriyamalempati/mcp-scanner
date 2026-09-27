@@ -24,7 +24,7 @@ findings exist, `0` otherwise — making it CI/CD-friendly.
 ## Installation
 
 ```bash
-git clone https://github.com/indumalempati/mcp-scanner.git
+git clone https://github.com/indupriyamalempati/mcp-scanner.git
 cd mcp-scanner
 python3 -m venv venv
 source venv/bin/activate
