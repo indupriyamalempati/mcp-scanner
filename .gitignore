@@ -3,6 +3,13 @@ __pycache__/
 *.pyc
 scan_report.json
 filesystem_scan_report.json
+clean-scan.json
+agent-audit-results.json
+atlassian_taint_report.json
+atlassian_taint_report_v2.json
+atlassian_taint_report_v2.2.json
 output_filesystem_server.txt
 *.log
 .DS_Store
+test-target/
+mcp-servers-clean/
